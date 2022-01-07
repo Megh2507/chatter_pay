@@ -87,8 +87,3 @@ npm run dev
 <br />
 <img src="./images/command.png" width="300px">
 
-## Authors
-
-<a href="https://github.com/anomic30/Chatterpay-discord-bot/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=anomic30/Chatterpay-discord-bot" />
-</a>
